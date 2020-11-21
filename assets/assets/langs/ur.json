@@ -1,0 +1,173 @@
+{
+  "language": {
+    "name": {
+      "ar": "عربى",
+      "en": "English",
+      "ml": "മലയാളം",
+      "ur": "اردو",
+      "hi": "हिंदी"
+    },
+    "selected_message": " فی الحال منتخب کردہ زبان یو آر ڈیयू ہے",
+    "selection": {
+      "message": "براہ کرم فہرست میں سے کسی زبان کا انتخاب کریں",
+      "title": "زبان کا انتخاب"
+    }
+  },
+
+  "home_side_menu": {
+    "service": "خدمات",
+    "dashboard": "میرا اکاونٹ",
+    "order": "میرے احکام",
+    "offers": "پیش کرتا ہے",
+    "center": "ہمارا مرکز",
+    "settings": "ترتیبات",
+    "exit": "باہر نکلیں",
+    "becomeTypingBro": "Become a TYPINGBRO"
+  },
+
+  "settings_page": {
+    "about": " ہمارے بارے میں",
+    "enquiry": " خدمت کے لئے انکوائری",
+    "faq": " عمومی سوالات",
+    "support": " کی حمایت",
+    "terms": " شرائط و ضوابط",
+    "privacy": " رازداری",
+    "feedback": " آراء",
+    "language": " زبان منتخب کریں",
+    "rate": " ہمیں شرح دیں"
+  },
+
+  "home_page": {
+    "available_service": "دستیاب خدمات",
+    "browse_all": "تمام براؤز کریں",
+    "offers": "پیش کرتا ہے"
+  },
+
+  "alert_messages": {
+    "buttons": {
+      "yes": "جی ہاں",
+      "no": "نہیں",
+      "cancel": "منسوخ کریں",
+      "proceed": "آگے بڑھو",
+      "confirm": "تصدیق کریں",
+      "save": "محفوظ کریں",
+      "update": "اپ ڈیٹ"
+    },
+    "loading": "لوڈ ہو رہا ہے...",
+    "adding_cart": "ٹوکری میں شامل کرنا...",
+    "delete_cart_alert": "کیا آپ خدمت کو کارٹ سے حذف کرنا چاہتے ہیں؟?",
+    "select_service_method": "خدمت کا طریقہ منتخب کریں",
+    "pickup": "صارف کے پتے سے اٹھاو",
+    "visit": "سنٹر دیکھیں",
+    "logout_msg": "کیا آپ ایپ سے لاگ آؤٹ کرنا چاہتے ہیں؟?",
+    "delete_address": "کیا آپ منتخبہ پتہ ختم کرنا چاہتے ہیں؟?"
+  },
+
+  "search_bloc": {
+    "search_service": "تلاش کی خدمت",
+    "no_data": "کوئی مواد نہیں"
+  },
+
+  "specific_page": {
+    "req_docs": "مطلوبہ دستاویزات",
+    "order_now": "اب حکم",
+    "add_to_cart": "ٹوکری میں شامل کریں",
+    "price": "قیمت \n"
+  },
+
+  "view_cart": {
+    "proceed_to_checkout": "چیکآاٹ پر آگے بڑھیں",
+    "count": "شمار: ",
+    "delete": "حذف کریں",
+    "empty_cart": "ٹوکری خالی ہے",
+    "error_snack_bar": "آگے بڑھنے کے لئے کم از کم ایک خدمت منتخب کریں"
+  },
+
+  "login_main": {
+    "error_messages": {
+      "malformed_email": "ایسا لگتا ہے کہ آپ کا ای میل پتہ خراب ہے۔",
+      "wrong_pwd": "آپ کا پاس ورڈ غلط ہے",
+      "user_not_found": "اس ای میل کے ساتھ صارف موجود نہیں ہے۔",
+      "user_disabled": "اس ای میل والے صارف کو غیر فعال کردیا گیا ہے۔",
+      "many_req": "بہت زیادہ درخواستیں۔ بعد میں دوبارہ کوشش کریں۔",
+      "op_not_allowed": "ای میل اور پاس ورڈ کے ساتھ سائن ان کرنے کا اہل نہیں ہے۔",
+      "undefiened_error": "ایک غیر متعینہ غلطی واقع ہوئی۔",
+      "pwd_short_error": "پاس ورڈ کی لمبائی کم از کم 7 حرف ہونی چاہئے",
+      "no_suspect_account": "گمنام اکاؤنٹس فعال نہیں ہیں",
+      "weak_pwd": "آپ کا پاس ورڈ بہت کمزور ہے",
+      "invalid_email": "آپ کا ای میل غلط ہے",
+      "used_email": "ای میل پہلے ہی مختلف اکاؤنٹ میں زیر استعمال ہے",
+      "invalid_credential": "غلط سند"
+    },
+    "login": "لاگ ان کریں",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "email_hint": "اپنا ای میل درج کریں",
+    "password_hint": "اپنا پاس ورڈ درج کریں",
+    "email_error": "براہ کرم درست ای میل ID داخل کریں",
+    "password_error": "براہ کرم درست پاس ورڈ درج کریں",
+    "forgot_btn": "پاسورڈ بھول گے?",
+    "or": "- یا -",
+    "sign_with": "کے ساتھ سائن ان",
+    "no_email_error": "ای میل ہمارے ساتھ رجسٹرڈ نہیں ہے"
+  },
+
+  "phone_login": {
+    "mobile_num": "موبائل نمبر",
+    "valid_phone_error": "براہ کرم ایک درست فون نمبر فراہم کریں",
+    "continue": "جاری رہے",
+    "enter_phone": "فون نمبر داخل کریں",
+    "verify": "تفصیلات کی تصدیق کریں",
+    "otp_sent": "او ٹی پی کو بھیجا گیا",
+    "enter_otp": "OTP درج کریں"
+  },
+
+  "order_list_page": {
+    "order_num": "آرڈر نمبر:",
+    "service_list": "خدمات",
+    "ordered_on": "آرڈرڈ آن",
+    "amount": "رقم",
+    "no_order": "کوئی آرڈر نہیں ملا",
+    "no_order_msg": "ایسا لگتا ہے کہ آپ نے ابھی اپنا آرڈر نہیں کیا ہے",
+    "back_to_menu": "مینو پر واپس جائیں"
+  },
+
+  "sel_order_page": {
+    "order_num": "آپ کا آرڈر نمبر ہے",
+    "order_success": "آرڈر کامیابی",
+    "order_placed": "آپ کا آرڈر بھیج دیا گیا ہے"
+  },
+
+  "user_dashboard": {
+    "order": "احکامات",
+    "saved_address": "محفوظ کردہ پتہ"
+  },
+
+  "address_hints": {
+    "name_hint": "اپنا نام درج کریں",
+    "name_error": "براہ کرم درست نام درج کریں",
+    "phone_hint": "اپنا فون نمبر درج کریں",
+    "phone_error": "براہ کرم درست فون نمبر درج کریں",
+    "email_hint": "اپنا ای میل آئی ڈی درج کریں",
+    "emirate_hint": "اپنی امارت کی شناخت درج کریں",
+    "emirate_error": "براہ کرم درست امارات داخل کریں",
+    "country_hint": "اپنا اصل ملک درج کریں",
+    "building_hint": "اپنا بلڈنگ نمبر یا نام درج کریں",
+    "building_error": "براہ کرم درست بلڈنگ نمبر یا نام درج کریں",
+    "villa_hint": "اپنا فلیٹ یا ولا نمبر درج کریں",
+    "villa_error": "براہ کرم درست فلیٹ یا ولا نمبر درج کریں"
+  },
+
+  "order_checkout_main": {
+    "change_service_method": "سروس کا طریقہ کار تبدیل کریں",
+    "pickup": "صارف کے پتے سے اٹھاو",
+    "visit": "منتخب کردہ مرکز دیکھیں",
+    "confirm": "حکم کی تصدیق",
+    "select_payment": "ادائیگی کرنے کا طریقہ منتخب کریں",
+    "cash": "نقد",
+    "card": "کارڈ",
+    "visit_display": "ڈسپلے سینٹر دیکھیں",
+    "pickup_display": "سروس اٹھاو"
+
+  }
+}

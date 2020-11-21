@@ -1,0 +1,173 @@
+{
+  "language": {
+    "name": {
+      "ar": "عربى",
+      "en": "English",
+      "ml": "മലയാളം",
+      "ur": "اردو",
+      "hi": "हिंदी"
+    },
+    "selected_message": "वर्तमान में चयनित भाषा है {language}",
+    "selection": {
+      "message": "कृपया सूची में से एक भाषा चुनें",
+      "title": "भाषा चयन"
+    }
+  },
+
+  "home_side_menu": {
+    "service": "सेवाएं",
+    "dashboard": "मेरा खाता",
+    "order": "मेरे आदेश",
+    "offers": "ऑफर",
+    "center": "हमारा केंद्र",
+    "settings": "समायोजन",
+    "exit": "बाहर जाएं",
+    "becomeTypingBro": "Become a TYPINGBRO"
+  },
+
+  "settings_page": {
+    "about": " हमारे बारे में",
+    "enquiry": " सेवा के लिए पूछताछ",
+    "faq": " सामान्य प्रश्न",
+    "support": " सहयोग",
+    "terms": " नियम एवं शर्तें",
+    "privacy": " एकांत",
+    "feedback": " प्रतिपुष्टि",
+    "language": " भाषा का चयन करें",
+    "rate": " हमें रेटिंग दें"
+  },
+
+  "home_page": {
+    "available_service": "उपलब्ध सेवाएं",
+    "browse_all": "सभी ब्राउज़ करें",
+    "offers": "ऑफर"
+  },
+
+  "alert_messages": {
+    "buttons": {
+      "yes": "हाँ",
+      "no": "नहीं",
+      "cancel": "रद्द करना",
+      "proceed": "बढ़ना",
+      "confirm": "पुष्टि करें",
+      "save": "सहेजें",
+      "update": "अपडेट करें"
+    },
+    "loading": "लोड हो रहा है...",
+    "adding_cart": "कार्ट में जोड़ रहा है ...",
+    "delete_cart_alert": "क्या आप कार्ट से सेवा हटाना चाहते हैं?",
+    "select_service_method": "सेवा विधि का चयन करें",
+    "pickup": "उपयोगकर्ता पते से चुनें",
+    "visit": "केंद्र पर जाएँ",
+    "logout_msg": "क्या आप ऐप से लॉगआउट करना चाहते हैं?",
+    "delete_address": "क्या आप चयनित पते को हटाना चाहते हैं?"
+  },
+
+  "search_bloc": {
+    "search_service": "खोज सेवा",
+    "no_data": "कोई आकड़ा उपलब्ध नहीं है"
+  },
+
+  "specific_page": {
+    "req_docs": "आवश्यक दस्तावेज़",
+    "add_to_cart": "कार्ट में डालें",
+    "order_now": "अब आज्ञा दें",
+    "price": "कीमत\n"
+  },
+
+  "view_cart": {
+    "proceed_to_checkout": "चेक आउट करने के लिए आगे बढ़ें",
+    "count": "गिनती: ",
+    "delete": "हटाएं",
+    "empty_cart": "कार्ट खाली है",
+    "error_snack_bar": "आगे बढ़ने के लिए कम से कम एक सेवा का चयन करें"
+  },
+
+  "login_main": {
+    "error_messages": {
+      "malformed_email": "आपका ईमेल पता विकृत प्रतीत होता है।",
+      "wrong_pwd": "आपका पासवर्ड गलत है।",
+      "user_not_found": "इस ईमेल के साथ उपयोगकर्ता मौजूद नहीं है।",
+      "user_disabled": "इस ईमेल के साथ उपयोगकर्ता को अक्षम कर दिया गया है।",
+      "many_req": "बहुत सारे अनुरोध। बाद में पुन: प्रयास करें।",
+      "op_not_allowed": "ईमेल और पासवर्ड से साइन इन करना सक्षम नहीं है।",
+      "undefiened_error": "एक अपरिभाषित त्रुटि हुई।",
+      "pwd_short_error": "पासवर्ड की लंबाई कम से कम 7 अक्षर होनी चाहिए",
+      "no_suspect_account": "बेनामी खाते सक्षम नहीं हैंd",
+      "weak_pwd": "आपका पासवर्ड बहुत कमजोर है",
+      "invalid_email": "आपका ईमेल अमान्य है",
+      "used_email": "ईमेल पहले से ही अलग खाते पर उपयोग में है",
+      "invalid_credential": "अमान्य क्रेडेंशियल।"
+    },
+    "login": "लॉग इन करें",
+    "email": "ईमेल",
+    "password": "कुंजिका",
+    "email_hint": "अपना ईमेल दर्ज करें",
+    "password_hint": "अपना पासवर्ड डालें",
+    "email_error": "कृपया मान्य ईमेल आईडी दर्ज करें",
+    "password_error": "कृपया मान्य पासवर्ड दर्ज करें",
+    "forgot_btn": "पासवर्ड भूल गए?",
+    "or": "- या -",
+    "sign_with": "के साथ साइन इन करें",
+    "no_email_error": "ईमेल हमारे साथ पंजीकृत नहीं है"
+  },
+
+  "phone_login": {
+    "mobile_num": "मोबाइल नंबर",
+    "valid_phone_error": "कृपया एक वैध फोन नंबर दर्ज करें",
+    "continue": "जारी रखें",
+    "enter_phone": "फोन नंबर दर्ज",
+    "verify": "विवरण सत्यापित करें",
+    "otp_sent": "OTP को भेजा गया",
+    "enter_otp": "OTP दर्ज करें"
+  },
+
+  "order_list_page": {
+    "order_num": "क्रम संख्या:",
+    "service_list": "सेवा",
+    "ordered_on": "जारी किया गया",
+    "amount": "रकम",
+    "no_order": "कोई आदेश नहीं",
+    "no_order_msg": "लगता है कि आपने अभी तक अपना आदेश नहीं दिया है",
+    "back_to_menu": "वापस मेन्यू पर"
+  },
+
+  "sel_order_page": {
+    "order_num": "आपका ऑर्डर नंबर है",
+    "order_success": "आदेश सफलता",
+    "order_placed": "आपका आदेश दे दिया गया है"
+  },
+
+  "user_dashboard": {
+    "order": "आदेश",
+    "saved_address": "सहेजा हुआ पता"
+  },
+
+  "address_hints": {
+    "name_hint": "अपना नाम दर्ज करें",
+    "name_error": "कृपया मान्य नाम दर्ज करें",
+    "phone_hint": "अपना दूरभाष क्रमांक दर्ज करें",
+    "phone_error": "कृपया एक वैध नंबर डालें",
+    "email_hint": "अपनी ईमेल आईडी दर्ज करें",
+    "emirate_hint": "अपनी अमीरात आईडी दर्ज करें",
+    "emirate_error": "कृपया मान्य अमीरात दर्ज करें",
+    "country_hint": "अपना मूल देश दर्ज करें",
+    "building_hint": "अपना बिल्डिंग नंबर या नाम दर्ज करें",
+    "building_error": "कृपया मान्य बिल्डिंग नंबर या नाम दर्ज करें",
+    "villa_hint": "अपना फ्लैट या विला नंबर दर्ज करें",
+    "villa_error": "कृपया वैध फ्लैट या विला नंबर दर्ज करें"
+  },
+
+  "order_checkout_main": {
+    "change_service_method": "सेवा पद्धति बदलें",
+    "pickup": "उपयोगकर्ता पते से चुनें",
+    "visit": "चयनित केंद्र पर जाएं",
+    "confirm": "आदेश की पुष्टि करें",
+    "select_payment": "भुगतान का तरीका चुनें",
+    "cash": "नकद",
+    "card": "कार्ड",
+    "visit_display": "प्रदर्शित केंद्र पर जाएं",
+    "pickup_display": "सेवा का लाभ उठाएं"
+
+  }
+}

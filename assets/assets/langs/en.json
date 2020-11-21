@@ -1,0 +1,184 @@
+{
+  "language": {
+    "name": {
+      "ar": "عربى",
+      "en": "English",
+      "ml": "മലയാളം",
+      "ur": "اردو",
+      "hi": "हिंदी"
+    },
+    "selected_message": "Currently selected language is {language}",
+    "selection": {
+      "message": "Please select a language from the list",
+      "title": "Language Selection"
+    }
+  },
+
+  "home_side_menu": {
+    "service": "Services",
+    "dashboard": "My Account",
+    "order": "My Orders",
+    "offers": "Offers",
+    "center": "Centers",
+    "settings": "Settings",
+    "exit": "Exit",
+    "becomeTypingBro": "Become a TYPINGBRO"
+  },
+
+  "settings_page": {
+    "about": " About Us",
+    "enquiry": " enquiry for service",
+    "faq": " FAQ",
+    "support": " support",
+    "terms": " terms & conditions",
+    "privacy": " privacy",
+    "feedback": " feedback",
+    "language": " select language",
+    "rate": " rate us"
+  },
+
+  "home_page": {
+    "available_service": "Services",
+    "browse_all": "Browse All",
+    "offers": "Offers"
+  },
+
+  "alert_messages": {
+    "buttons": {
+      "yes": "Yes",
+      "no": "No",
+      "cancel": "Cancel",
+      "proceed": "Proceed",
+      "confirm": "Confirm",
+      "save": "Save",
+      "update": "Update"
+    },
+    "loading": "Loading...",
+    "adding_cart": "Adding to cart...",
+    "delete_cart_alert": "Do you want to delete the service from cart?",
+    "select_service_method": "Select Service Method",
+    "pickup": "Pick up from User Address",
+    "visit": "Visit the Center",
+    "logout_msg": "Do you want to logout from the app?",
+    "delete_address": "Do you want to delete the selected address?"
+  },
+
+  "search_bloc": {
+    "search_service": "Search Service",
+    "no_data": "No Data"
+  },
+
+  "specific_page": {
+    "req_docs": "Required documents",
+    "order_now": "ORDER NOW",
+    "add_to_cart": "ADD TO CART",
+    "price": "Price\n"
+  },
+
+  "view_cart": {
+    "proceed_to_checkout": "Proceed to checkout",
+    "count": "Count: ",
+    "delete": "Delete",
+    "empty_cart": "Cart is empty",
+    "error_snack_bar": "Select at least one service to proceed"
+  },
+
+  "login_main": {
+    "error_messages": {
+      "malformed_email": "Your email address appears to be malformed.",
+      "wrong_pwd": "Your password is wrong.",
+      "user_not_found": "User with this email doesn't exist.",
+      "user_disabled": "User with this email has been disabled.",
+      "many_req": "Too many requests. Try again later.",
+      "op_not_allowed": "Signing in with Email and Password is not enabled.",
+      "undefiened_error": "An undefined Error happened.",
+      "pwd_short_error": "Password length should be at least 7 characters",
+      "no_suspect_account": "Anonymous accounts are not enabled",
+      "weak_pwd": "Your password is too weak",
+      "invalid_email": "Your email is invalid",
+      "used_email": "Email is already in use on different account",
+      "invalid_credential": "Invalid credential."
+    },
+    "login": "LOGIN",
+    "email": "Email",
+    "password": "Password",
+    "email_hint": "Enter your email",
+    "password_hint": "Enter your password",
+    "email_error": "Please enter valid Email ID",
+    "password_error": "Please enter valid password",
+    "forgot_btn": "Forgot password?",
+    "or": "- OR -",
+    "sign_with": "Sign in with",
+    "no_email_error": "Email not registered with us"
+  },
+
+  "phone_login": {
+    "mobile_num": "Mobile Number",
+    "valid_phone_error": "Please provide a valid phone number",
+    "continue": "CONTINUE",
+    "enter_phone": "ENTER PHONE NUMBER",
+    "verify": "Verify Details",
+    "otp_sent": "OTP sent to",
+    "enter_otp": "Enter OTP"
+  },
+
+  "order_list_page": {
+    "order_num": "Order Number: ",
+    "service_list": "SERVICES",
+    "ordered_on": "ORDERED ON",
+    "amount": "Amount",
+    "no_order": "NO ORDER FOUND",
+    "no_order_msg": "Looks like you haven't  made your order yet",
+    "back_to_menu": "Back To Menu"
+  },
+
+  "sel_order_page": {
+    "order_num": "Your order number is",
+    "order_success": "Order Success",
+    "order_placed": "Your order has been placed"
+  },
+
+  "user_dashboard": {
+    "order": "Orders",
+    "saved_address": "Saved Address"
+  },
+
+  "address_hints": {
+    "name_hint": "Enter your Name",
+    "name_error": "Please enter valid Name",
+    "phone_hint": "Enter your Phone Number",
+    "phone_error": "Please enter valid Phone number",
+    "email_hint": "Enter your email ID",
+    "emirate_hint": "Enter your Emirate ID",
+    "emirate_error": "Please enter valid emirate",
+    "country_hint": "Enter your origin country",
+    "building_hint": "Enter your Building Number or Name",
+    "building_error": "Please enter valid Building Number or Name",
+    "villa_hint": "Enter your Flat or Villa Number",
+    "villa_error": "Please enter valid Flat or Villa Number"
+  },
+
+  "order_checkout_main": {
+    "change_service_method": "Change Service Method",
+    "pickup": "Pick up from User Address",
+    "visit": "Visit the Selected Center",
+    "confirm": "Confirm Order",
+    "select_payment": "Select payment Method",
+    "cash": "Cash",
+    "card": "Card",
+    "visit_display": "Visit the displayed Center",
+    "pickup_display": "Pick up service availed"
+
+  },
+
+  "enquiry_page_main": {
+    "enquiry_msg": "Type message for enquiry",
+    "enquiry_num": "Phone Number",
+    "enquiry_email": "Email ID",
+    "enquire_btn": "Send Enquiry",
+    "enquiry_msg_error": "Please provide message to proceed",
+    "enquiry_num_error": "Please provide Phone Number to proceed",
+    "enquiry_email_error": "Please provide Email ID to proceed",
+    "enquiry_success_msg": "Enquiry sent successfully"
+  }
+}

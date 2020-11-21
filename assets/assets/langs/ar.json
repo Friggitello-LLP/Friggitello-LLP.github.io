@@ -1,0 +1,172 @@
+{
+  "language": {
+    "name": {
+      "ar": "عربى",
+      "en": "English",
+      "ml": "മലയാളം",
+      "ur": "اردو",
+      "hi": "हिंदी"
+    },
+    "selected_message": "اللغة المختارة حالياً هي  {language}",
+    "selection": {
+      "message": "برجاء إختيار لغة من القائمة",
+      "title": "إختيار اللغة"
+    }
+  },
+
+  "home_side_menu": {
+    "service": "خدمات",
+    "dashboard": "حسابي",
+    "order": "طلباتي",
+    "offers": "عروض",
+    "center": "مركزنا",
+    "settings": "إعدادات",
+    "exit": "خروج",
+    "becomeTypingBro": "Become a TYPINGBRO"
+  },
+
+  "settings_page": {
+    "about": "معلومات عنا ",
+    "enquiry": " الاستفسار عن الخدمة",
+    "faq": "التعليمات ",
+    "support": "الدعم ",
+    "terms": "البنود و الظروف ",
+    "privacy": "خصوصية ",
+    "feedback": "ردود الفعل ",
+    "language": "اختار اللغة ",
+    "rate": "قيمنا "
+  },
+
+  "home_page": {
+    "available_service": "الخدمات المتاحة",
+    "browse_all": "تصفح الكل",
+    "offers": "عروض"
+  },
+
+  "alert_messages": {
+    "buttons": {
+      "yes": "نعم",
+      "no": "لا",
+      "cancel": "إلغاء",
+      "proceed": "تقدم",
+      "confirm": "تؤكد",
+      "save": "حفظ",
+      "update": "تحديث"
+    },
+    "loading": "...جار التحميل",
+    "adding_cart": "...إضافة إلى عربة التسوق",
+    "delete_cart_alert": "هل تريد حذف الخدمة من سلة التسوق؟",
+    "select_service_method": "حدد طريقة الخدمة",
+    "pickup": "التقط من عنوان المستخدم",
+    "visit": "الاستلام من عنوان المستخدم قم بزيارة المركز",
+    "logout_msg": "هل تريد تسجيل الخروج من التطبيق؟",
+    "delete_address": "هل تريد حذف العنوان المختار؟"
+  },
+
+  "search_bloc": {
+    "search_service": "خدمة البحث",
+    "no_data": "لايوجد بيانات"
+  },
+
+  "specific_page": {
+    "req_docs": "ملفات مطلوبة",
+    "add_to_cart": "أضف إلى السلة",
+    "order_now": "اطلب الان",
+    "price": "السعر\n"
+  },
+
+  "view_cart": {
+    "proceed_to_checkout": "باشرالخروج من الفندق",
+    "count": "العد:",
+    "delete": "حذف",
+    "empty_cart": "البطاقه خاليه",
+    "error_snack_bar": "حدد خدمة واحدة على الأقل للمتابعة"
+  },
+
+  "login_main": {
+    "error_messages": {
+      "malformed_email": "يبدو أن عنوان بريدك الإلكتروني مشوه.",
+      "wrong_pwd": "كلمة المرور الخاصة بك خاطئة.",
+      "user_not_found": "مستخدم بهذا البريد الإلكتروني غير موجود.",
+      "user_disabled": "تم تعطيل المستخدم مع هذا البريد الإلكتروني.",
+      "many_req": "طلبات كثيرة جدا. حاول مرة أخرى في وقت لاحق.",
+      "op_not_allowed": "لم يتم تمكين تسجيل الدخول باستخدام البريد الإلكتروني وكلمة المرور.",
+      "undefiened_error": "حدث خطأ غير محدد.",
+      "pwd_short_error": "يجب ألا يقل طول كلمة المرور عن 7 أحرف",
+      "no_suspect_account": "لم يتم تمكين الحسابات المجهولة",
+      "weak_pwd": "كلمة السر ضعيفة جدا",
+      "invalid_email": "بريدك الالكتروني خاطئ",
+      "used_email": "البريد الإلكتروني قيد الاستخدام بالفعل على حساب مختلف",
+      "invalid_credential": "شهادة اعتماد غير صالحة."
+    },
+    "login": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمه السر",
+    "email_hint": "أدخل بريدك الإلكتروني",
+    "password_hint": "ادخل رقمك السري",
+    "email_error": "الرجاء إدخال البريد الإلكتروني الصحيح",
+    "password_error": "الرجاء إدخال كلمة مرور صالحة",
+    "forgot_btn": "هل نسيت كلمة المرور؟",
+    "or": "- أو -",
+    "sign_with": "قم بتسجيل الدخول باستخدام",
+    "no_email_error": "البريد الإلكتروني غير مسجل معنا"
+  },
+
+  "phone_login": {
+    "mobile_num": "رقم الهاتف المحمول",
+    "valid_phone_error": "الرجاء تقديم رقم هاتف صالح",
+    "continue": "استمر",
+    "enter_phone": "أدخل رقم الهاتف",
+    "verify": "تحقق من التفاصيل",
+    "otp_sent": "تم إرسال OTP إلى",
+    "enter_otp": "أدخل OTP"
+  },
+
+  "order_list_page": {
+    "order_num": "رقم الطلب:",
+    "service_list": "خدمات",
+    "ordered_on": "تم طلبه في",
+    "amount": "كمية",
+    "no_order": "لم يتم العثور على طلب",
+    "no_order_msg": "يبدو أنك لم تقدم طلبك بعد",
+    "back_to_menu": "العودة إلى القائمة"
+  },
+
+  "sel_order_page": {
+    "order_num": "رقم الطلب الخاص بك هو",
+    "order_success": "طلب النجاح",
+    "order_placed": "وقد وضعت طلبك"
+  },
+
+  "user_dashboard": {
+    "order": "طلب",
+    "saved_address": "العنوان المحفوظ"
+  },
+
+  "address_hints": {
+    "name_hint": "أدخل أسمك",
+    "name_error": "الرجاء إدخال اسم صالح",
+    "phone_hint": "أدخل رقم هاتفك",
+    "phone_error": "الرجاء إدخال رقم هاتف صحيح",
+    "email_hint": "أدخل معرف البريد الإلكتروني الخاص بك",
+    "emirate_hint": "أدخل هوية الإمارة الخاصة بك",
+    "emirate_error": "الرجاء إدخال إمارة صالحة",
+    "country_hint": "أدخل بلدك الأصلي",
+    "building_hint": "أدخل رقم المبنى أو الاسم",
+    "building_error": "الرجاء إدخال اسم أو رقم مبنى صالح",
+    "villa_hint": "أدخل رقم شقتك أو فيلتك",
+    "villa_error": "الرجاء إدخال رقم شقة أو فيلا صالح"
+  },
+
+  "order_checkout_main": {
+    "change_service_method": "تغيير طريقة الخدمة",
+    "pickup": "التقط من عنوان المستخدم",
+    "visit": "قم بزيارة المركز المختار",
+    "confirm": "أكد الطلب",
+    "select_payment": "اختار طريقة الدفع",
+    "cash": "السيولة النقدية",
+    "card": "بطاقة",
+    "visit_display": "قم بزيارة المركز المعروض",
+    "pickup_display": "استقبل الخدمة المتوفرة"
+  }
+}
